@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ineyiaro.github.io/AQF/sitemap_index.txt
+Sitemap: https://ineyiaro.github.io/PJW/sitemap_index.txt
+Sitemap: https://ineyiaro.github.io/QaW/sitemap_index.txt
+Sitemap: https://ineyiaro.github.io/syJ/sitemap_index.txt
